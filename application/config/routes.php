@@ -60,3 +60,8 @@ $route['view_insert']='jenis_barang/view_insert';
 $route['validation_data']='jenis_barang/validation_data';
 $route['show_jenis_barang']='jenis_barang/showData';
 
+// mendaftarkan halaman login
+$route['login']='co_login/show_login';
+// daftarkan ke halaman home
+$route['home']='co_home';
+
