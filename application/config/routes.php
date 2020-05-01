@@ -65,3 +65,5 @@ $route['login']='co_login/show_login';
 // daftarkan ke halaman home
 $route['home']='co_home';
 
+// daftarkan ke halaman upload
+$route['upload']='co_upload';
